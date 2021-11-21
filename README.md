@@ -17,6 +17,11 @@ We realize Jet Airways Business has the highest price with Trujet having the low
 
 ![Screenshot 2021-11-21 at 10 08 38 PM](https://user-images.githubusercontent.com/54720964/142771343-c0208b59-2523-44c7-b59b-0adbfefd6b5e.png)
 
+# Prices based on number of Stops
+
+![Screenshot 2021-11-21 at 10 32 27 PM](https://user-images.githubusercontent.com/54720964/142771727-20fef99f-3854-44fc-933b-3c8a25ced67f.png)
+
+
 
 
 
