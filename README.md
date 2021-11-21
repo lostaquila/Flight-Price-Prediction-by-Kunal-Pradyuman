@@ -1,17 +1,8 @@
-# Flight-Price-Predict-Deployment-Heroku
+# Flight Price Prediction by Kunal Pradyuman 101803623
 
 In this data science machine learning project tutorial, we are going to build an end to end machine learning project and then deploy it via Heroku.
 
-Test App here: https://tdsapp.herokuapp.com/
+It is a flight price prediction application which would require the source and the destination of the flight along with the dates of departure and arrival. It will also take into consideration the Airline as well as the number of stoppage on the journey to give a fine prediction of the cost.
 
-Join Telegram Group: t.me/totaldatascience
 
-STEPS:
 
-1. Choose your use-case
-2. Get your dataset prepared and build your model and choose the best model
-3. Create a web App using Flask
-4. Commit your code to Github
-5. Create your account on Heroku
-6. Link your Heroku account to your Github account
-7. Deploy and test your App
