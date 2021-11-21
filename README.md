@@ -7,7 +7,7 @@ It is a flight price prediction application which would require the source and t
 
 Graph Depicting various relations:
 
-#Price Vs Airline
+# Price Vs Airline
 
 ![Screenshot 2021-11-21 at 10 08 20 PM](https://user-images.githubusercontent.com/54720964/142771340-c6115a1c-025e-4da0-bc78-a4cc90f9a436.png)
 
